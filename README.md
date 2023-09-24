@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DAONgok
-- 👀 I’m interested in researching into cool DAO schemes, legit projects and try great foods 
-- 🌱 I’m currently learning the schemes of Arweave, 1inch and Tezos 
-- 💞️ I’m looking to collaborate on co-design on next generation DAO toolings and schemes
+- 👀 I’m interested in researching cool frontier projects and trying great foods 
+- 🌱 I’m currently learning Korean, Japanese and Flying Cars
+- 💞️ I’m looking to collaborate on co-design on next-generation voting toolings and schemes
 - 📫 How to reach me steve@dorafactory.org
 
 <!---
